@@ -8,17 +8,15 @@ Simple report template
 
 <div class="row">
   <div class="column">
-    <img src="examples/example_page_1.png" style="width:100%" >
+    <img src="examples/example_page_1.png" style="width:30%" >
   </div>
   <div class="column">
-    <img src="examples/example_page_1.png"style="width:100%" />
+    <img src="examples/example_page_1.png"style="width:30%" />
   </div>
   <div class="column">
-    <img src="examples/example_page_1.png" style="width:100%"/>
+    <img src="examples/example_page_1.png" style="width:30%"/>
   </div>
 </div>
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-
 <h2>Example of code</h2>
 
 <pre>
