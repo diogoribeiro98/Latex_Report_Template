@@ -1,42 +1,8 @@
-# Latex_Report_Template
-Simple report template
+# Latex Report Template
 
-![](examples/example_page_1.png)
+This is a simple latex report template
 
-<div style="text-align:center"><img src="examples/example_page_1.png" width = 500 /></div>
+# Examples
 
-
-<div class="row">
-  <div class="column">
-    <img src="examples/example_page_1.png" style="width:30%" >
-  </div>
-  <div class="column">
-    <img src="examples/example_page_1.png"style="width:30%" />
-  </div>
-  <div class="column">
-    <img src="examples/example_page_1.png" style="width:30%"/>
-  </div>
-</div>
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-
-
-
-<div class="container">
-    <div class="content">
-    I'm always<br/>
-    In<br>
-    Center :)
-    </div>
-</div>
-
+<div style="text-align:center"><img src="examples/example_page_1.png" width = 300 /></div>
+<div style="text-align:center"><img src="examples/example_page_2.png" width = 300 /></div>
