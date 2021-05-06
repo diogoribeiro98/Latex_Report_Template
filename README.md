@@ -33,3 +33,12 @@ Simple report template
     </div>
 </pre>
 ```
+
+
+<div class="container">
+    <div class="content">
+    I'm always<br/>
+    In<br>
+    Center :)
+    </div>
+</div>
