@@ -2,7 +2,7 @@
 Simple report template
 
 ![](examples/example_page_1.png)
-
+```html
 <div style="text-align:center"><img src="examples/example_page_1.png" width = 500 /></div>
 
 
@@ -18,7 +18,7 @@ Simple report template
   </div>
 </div>
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
-```html
+
 <h2>Example of code</h2>
 
 <pre>
