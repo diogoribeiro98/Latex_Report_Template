@@ -3,4 +3,4 @@ Simple report template
 
 ![](examples/example_page_1.png)
 
-<div style="text-align:center"><img src="examples/example_page_1.png" width = 700 /></div>
+<div style="text-align:center"><img src="examples/example_page_1.png" width = 500 /></div>
