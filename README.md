@@ -19,7 +19,6 @@ Simple report template
 </div>
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
 
-```html
 <h2>Example of code</h2>
 
 <pre>
@@ -42,4 +41,4 @@ Simple report template
     Center :)
     </div>
 </div>
-```
+
